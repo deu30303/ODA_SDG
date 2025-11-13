@@ -1,7 +1,7 @@
 # ODA_SDG
 
 This repository is intended to direct visitors to the  
-**KAIST Global Center for Development and Strategy (GCDS)**.  
+**KAIST Global Center for Development and Strategy (G-CODEs)**.  
 Please visit the link below to learn more about KAIST’s research and activities related to the Sustainable Development Goals (SDGs).
 
 ---
